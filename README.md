@@ -8,12 +8,14 @@ My work blends **VR-based vision diagnostics**, **embedded systems**, and **mach
 Driven by curiosity, I aim to build computational frameworks that bring physical intuition into the virtual world.
 
 <p align="left">
-  <a href="https://github.com/bm-bartley?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bm-bartley?color=FF4444&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/bm-bartley?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bm-bartley?color=FF4444&style=for-the-badge&labelColor=8B0000&logo=star&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bm-bartley/">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bm.bartley@outlook.com">
-    <img alt="email" title="Email me" src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.engineering.pitt.edu/">
+    <img alt="Education" title="University of Pittsburgh - Swanson School of Engineering" src="https://custom-icon-badges.demolab.com/badge/-University%20of%20Pittsburgh-darkblue?style=for-the-badge&logo=graduation-cap&logoColor=white"/ </a>
+  <a href="https://drive.google.com/YOUR_RESUME_LINK">
+    <img alt="Resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-lightgrey?style=for-the-badge&logo=readme&logoColor=black"/></a>
 </p>
 
 ---
