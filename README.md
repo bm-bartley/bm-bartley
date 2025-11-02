@@ -18,7 +18,9 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
     <img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<hr style="height:2px; border:none; background-color:#8B0000; margin-top:20px; margin-bottom:20px;" />
+<div align="center">
+  <img src="https://via.placeholder.com/900x2/8B0000/8B0000?text=" alt="red divider" />
+</div>
 
 ### 🧰 Languages and Tools
 
