@@ -54,15 +54,6 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 ---
 
-### 📊 GitHub Stats
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bm-bartley&show_icons=true&theme=dark&title_color=FF4444&icon_color=FF4444&text_color=DDDDDD&bg_color=0d1117)
-
-<!-- Optional Streak Stats -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=bm-bartley&theme=dark&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&background=0d1117) -->
-
----
-
 <details>
  <summary><h3>🧠 Brian’s Engineering Journey</h3></summary>
  
