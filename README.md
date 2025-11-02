@@ -52,6 +52,8 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 <img align="left" alt="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Ubuntu" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 
+<br clear="left"/>
+
 ---
 
 ### 🚀 Featured Projects
