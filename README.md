@@ -18,9 +18,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
     <img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100%' height='2'><rect width='100%' height='2' fill='%238B0000'/></svg>" alt="red divider"/>
-</p>
+---
 
 ### 🧰 Languages and Tools
 
@@ -52,7 +50,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 <br clear="left"/>
 
-<hr style="height:2px; border:none; background-color:#8B0000; margin-top:20px; margin-bottom:20px;" />
+---
 
 ### 🚀 Featured Projects
 
@@ -68,7 +66,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
   <a href="https://github.com/bm-bartley/Parallel-HPC-Analysis"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=Parallel+Energy+Analysis+on+HPC" alt="HPC Parallel Analysis" width="250"/></a>
 </p>
 
-<hr style="height:2px; border:none; background-color:#8B0000; margin-top:20px; margin-bottom:20px;" />
+---
 
 ### 🧠 My Engineering Journey
  
