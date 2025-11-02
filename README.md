@@ -1,6 +1,6 @@
 # 👨‍💻 Brian Bartley
 
-**`Computer Engineer | VR Systems Researcher | Embedded Developer`**
+<img alt="Tagline" src="https://custom-icon-badges.demolab.com/badge/Computer%20Engineer%20%7C%20VR%20Systems%20Researcher%20%7C%20Embedded%20Developer-8B0000?style=for-the-badge&logo=code&logoColor=white"/>
 
 I’m a computer engineer from the **University of Pittsburgh**, passionate about building **high-performance, immersive systems** that bridge hardware and virtual reality.  
 My work blends **VR-based vision diagnostics**, **embedded systems**, and **machine learning**—from developing **VR kinetic visual field testing platforms** in collaboration with UPMC, to designing **custom haptic gloves**, **mixed reality reconstruction pipelines**, and **parallel computing frameworks** for large-scale data analysis.  
@@ -18,7 +18,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
     <img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<hr style="height:2px; border:none; background-color:#8B0000; margin-top:20px; margin-bottom:20px;" />
 
 ### 🧰 Languages and Tools
 
@@ -50,7 +50,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 <br clear="left"/>
 
----
+<hr style="height:2px; border:none; background-color:#8B0000; margin-top:20px; margin-bottom:20px;" />
 
 ### 🚀 Featured Projects
 
@@ -66,7 +66,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
   <a href="https://github.com/bm-bartley/Parallel-HPC-Analysis"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=Parallel+Energy+Analysis+on+HPC" alt="HPC Parallel Analysis" width="250"/></a>
 </p>
 
----
+<hr style="height:2px; border:none; background-color:#8B0000; margin-top:20px; margin-bottom:20px;" />
 
 ### 🧠 My Engineering Journey
  
