@@ -54,12 +54,9 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 ---
 
-<details>
- <summary><h3>🧠 Brian’s Engineering Journey</h3></summary>
+### 🧠 My Engineering Journey
  
 I began my engineering journey exploring robotics and embedded systems — designing servo-based haptic gloves and teleoperated robotic arms.  
 That curiosity evolved into research at the **Pitt DISCOVER Lab**, where I developed a **VR-based platform for kinetic visual field testing**, bridging the gap between medical diagnostics and immersive technology.  
 Since then, my work has expanded to **mixed reality reconstruction**, **parallel computing**, and **cloud-based analytics for VR interaction data**.  
 I’m driven by the intersection of **human experience, high-performance computation, and spatial computing** — always pushing to make digital systems feel more alive.
-
-</details>
