@@ -52,7 +52,7 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories
 
 
 <table align="center" cellpadding="0" cellspacing="0" style="border:none;">
