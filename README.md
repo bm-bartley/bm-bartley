@@ -57,7 +57,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 <!-- BEGIN PROJECT GIFS -->
 <p align="center">
   <a href="https://github.com/bm-bartley/VR-VF">
-    <img src="assets/SD.gif" width="250" alt="VR Visual Field Testing"/>
+    <img src="https://github.com/bm-bartley/bm-bartley/raw/main/assets/SD.gif" width="250" alt="VR Visual Field Testing"/>
     <br/>
     <sub><b>VR Visual Field Testing Platform</b></sub>
   </a>
