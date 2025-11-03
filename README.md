@@ -55,7 +55,7 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/bm-bartley/VR-VF"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=VR+Visual+Field+Testing" alt="VR Visual Field Testing" width="250"/></a>
+  <a href="https://github.com/bm-bartley/VR-VF"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=VR+Visual+Field+Testing" alt="Senior Capstone: Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation" width="250"/></a>
   <a href="https://github.com/bm-bartley/VISTA"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=VISTA+VR+Platform" alt="VISTA VR Platform" width="250"/></a>
   <a href="https://github.com/bm-bartley/Haptic-Gloves"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=Electrostatic+Haptic+Gloves" alt="Haptic Gloves" width="250"/></a>
 </p>
