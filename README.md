@@ -54,17 +54,41 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 ### 🚀 Featured Projects
 
+<!-- BEGIN PROJECT GIFS -->
 <p align="center">
-  <a href="https://github.com/bm-bartley/VR-VF"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=VR+Visual+Field+Testing" alt="Senior Capstone: Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation" width="250"/></a>
-  <a href="https://github.com/bm-bartley/VISTA"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=VISTA+VR+Platform" alt="VISTA VR Platform" width="250"/></a>
-  <a href="https://github.com/bm-bartley/Haptic-Gloves"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=Electrostatic+Haptic+Gloves" alt="Haptic Gloves" width="250"/></a>
+  <a href="https://github.com/bm-bartley/VR-VF">
+    <img src="assets/SD.gif" width="250" alt="VR Visual Field Testing"/>
+    <br/>
+    <sub><b>VR Visual Field Testing Platform</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bm-bartley/Haptic-Gloves">
+    <img src="assets/SD.gif" width="250" alt="Electrostatic Haptic Gloves"/>
+    <br/>
+    <sub><b>Electrostatic Haptic Gloves</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bm-bartley/MR-Gaussian-Reconstruction">
+    <img src="assets/SD.gif" width="250" alt="MR Gaussian Reconstruction"/>
+    <br/>
+    <sub><b>Mixed Reality Gaussian Reconstruction</b></sub>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bm-bartley/TrainControlSim"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=Modular+Train+Control+Simulator" alt="Train Control Simulator" width="250"/></a>
-  <a href="https://github.com/bm-bartley/MR-Gaussian-Reconstruction"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=3D+Reconstruction+with+Gaussian+Splatting" alt="3D Reconstruction" width="250"/></a>
-  <a href="https://github.com/bm-bartley/Parallel-HPC-Analysis"><img src="https://via.placeholder.com/250x140/0d1117/FF4444?text=Parallel+Energy+Analysis+on+HPC" alt="HPC Parallel Analysis" width="250"/></a>
+  <a href="https://github.com/bm-bartley/TrainControlSim">
+    <img src="assets/SD.gif" width="250" alt="Train Control Simulator"/>
+    <br/>
+    <sub><b>Modular Train Control Simulator</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bm-bartley/Parallel-HPC-Analysis">
+    <img src="assets/SD.gif" width="250" alt="Parallel HPC Energy Analysis"/>
+    <br/>
+    <sub><b>Parallel Energy Analysis on HPC</b></sub>
+  </a>
 </p>
+<!-- END PROJECT GIFS -->
 
 ---
 
