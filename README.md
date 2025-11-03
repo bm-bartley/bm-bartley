@@ -54,26 +54,20 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 ### 🚀 Featured Projects
 
-![SD](https://github.com/user-attachments/assets/3224419f-3cfd-45ca-a1af-473cb4a2686f)
-
-<!-- BEGIN PROJECT GIFS -->
 <p align="center">
   <a href="https://github.com/bm-bartley/VR-VF">
-    <img src="https://github.com/user-attachments/assets/3224419f-3cfd-45ca-a1af-473cb4a2686f" width="250" alt="VR Visual Field Testing"/>
-    <br/>
-    <sub><b>VR Visual Field Testing Platform</b></sub>
+    <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="250" alt="VR Visual Field Testing"/><br/>
+    <sub><b>VR Visual Field Testing</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bm-bartley/Haptic-Gloves">
-    <img src="assets/SD.gif" width="250" alt="Electrostatic Haptic Gloves"/>
-    <br/>
-    <sub><b>Electrostatic Haptic Gloves</b></sub>
+  <a href="https://github.com/bm-bartley/Project2">
+    <img src="https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" width="250" alt="Second Project"/><br/>
+    <sub><b>Second Project</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bm-bartley/MR-Gaussian-Reconstruction">
-    <img src="assets/SD.gif" width="250" alt="MR Gaussian Reconstruction"/>
-    <br/>
-    <sub><b>Mixed Reality Gaussian Reconstruction</b></sub>
+  <a href="https://github.com/bm-bartley/Project3">
+    <img src="https://github.com/user-attachments/assets/YYYYYYYY-YYYY-YYYY-YYYY-YYYYYYYYYYYY" width="250" alt="Third Project"/><br/>
+    <sub><b>Third Project</b></sub>
   </a>
 </p>
 
