@@ -59,21 +59,21 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="300" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="260" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>VR Visual Field Testing</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="300" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="260" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>VR Visual Field Testing</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="300" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="260" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>VR Visual Field Testing</b></sub>
