@@ -2,10 +2,11 @@
 
 <img alt="Tagline" src="https://custom-icon-badges.demolab.com/badge/Computer%20Engineer%20%7C%20VR%20Systems%20Researcher%20%7C%20Embedded%20Developer-8B0000?style=for-the-badge&logo=code&logoColor=white"/>
 
-I’m a computer engineer from the **University of Pittsburgh**, passionate about building **high-performance, immersive systems** that bridge hardware and virtual reality.  
-My work blends **VR-based vision diagnostics**, **embedded systems**, and **machine learning**—from developing **VR kinetic visual field testing platforms** in collaboration with UPMC, to designing **custom haptic gloves**, **mixed reality reconstruction pipelines**, and **parallel computing frameworks** for large-scale data analysis.  
+$${\large\color{red}I\ am\ a\ Computer\ Engineer}$$ from the University of Pittsburgh, and I'm interested in building high-performance, immersive systems that bridge $${\large\color{red}computer\ hardware}$$ and $${\large\color{red}virtual\ reality}$$! My work spans custom haptic devices, various VR/AR pipelines, embedded systems, and parallel computing frameworks for large-scale data processing.
 
-Driven by curiosity, I aim to build computational frameworks that bring physical intuition into the virtual world.
+I love working on projects that blend both $${\large\color{red}hardware\ design}$$ and $${\large\color{red}software\ engineering}$$, as well any challenges that involve complex, low-level computer systems and architectures.
+
+Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}$$, and what keeps me hooked is the potential I see in its social side. I think social VR has the power to reshape how people connect and interact with others. It’s not just about escapism or playing with avatars - it’s about expanding the boundaries of who we are by exposing ourselves to perspectives we’d never otherwise encounter.
 
 <p align="left">
   <a href="https://www.engineering.pitt.edu/">
