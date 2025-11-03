@@ -54,10 +54,12 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 ### 🚀 Featured Projects
 
+![SD](https://github.com/user-attachments/assets/3224419f-3cfd-45ca-a1af-473cb4a2686f)
+
 <!-- BEGIN PROJECT GIFS -->
 <p align="center">
   <a href="https://github.com/bm-bartley/VR-VF">
-    <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="250" alt="VR Visual Field Testing"/>
+    <img src="https://github.com/user-attachments/assets/3224419f-3cfd-45ca-a1af-473cb4a2686f" width="250" alt="VR Visual Field Testing"/>
     <br/>
     <sub><b>VR Visual Field Testing Platform</b></sub>
   </a>
