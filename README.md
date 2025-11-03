@@ -54,37 +54,32 @@ Driven by curiosity, I aim to build computational frameworks that bring physical
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/bm-bartley/VR-VF">
-    <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="250" alt="VR Visual Field Testing"/><br/>
-    <sub><b>VR Visual Field Testing</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bm-bartley/Project2">
-    <img src="https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" width="250" alt="Second Project"/><br/>
-    <sub><b>Second Project</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bm-bartley/Project3">
-    <img src="https://github.com/user-attachments/assets/YYYYYYYY-YYYY-YYYY-YYYY-YYYYYYYYYYYY" width="250" alt="Third Project"/><br/>
-    <sub><b>Third Project</b></sub>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/bm-bartley/TrainControlSim">
-    <img src="assets/SD.gif" width="250" alt="Train Control Simulator"/>
-    <br/>
-    <sub><b>Modular Train Control Simulator</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bm-bartley/Parallel-HPC-Analysis">
-    <img src="assets/SD.gif" width="250" alt="Parallel HPC Energy Analysis"/>
-    <br/>
-    <sub><b>Parallel Energy Analysis on HPC</b></sub>
-  </a>
-</p>
-<!-- END PROJECT GIFS -->
+<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="300" alt="VR Visual Field Testing"/>
+      </a>
+      <br/>
+      <sub><b>VR Visual Field Testing</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="300" alt="VR Visual Field Testing"/>
+      </a>
+      <br/>
+      <sub><b>VR Visual Field Testing</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="300" alt="VR Visual Field Testing"/>
+      </a>
+      <br/>
+      <sub><b>VR Visual Field Testing</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
