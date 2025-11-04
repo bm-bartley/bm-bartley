@@ -144,14 +144,14 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/COIL.gif" width="250" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>Placeholder</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/NVID.gif" width="250" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>Placeholder</b></sub>
