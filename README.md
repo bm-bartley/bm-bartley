@@ -163,21 +163,47 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ADD.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ELEV.gif" width="250" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>Placeholder</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/COIL.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/REX.gif" width="250" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>Placeholder</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/NVID.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VIST.gif" width="250" alt="VR Visual Field Testing"/>
+      </a>
+      <br/>
+      <sub><b>Placeholder</b></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ELEV.gif" width="250" alt="VR Visual Field Testing"/>
+      </a>
+      <br/>
+      <sub><b>Placeholder</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/REX.gif" width="250" alt="VR Visual Field Testing"/>
+      </a>
+      <br/>
+      <sub><b>Placeholder</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VIST.gif" width="250" alt="VR Visual Field Testing"/>
       </a>
       <br/>
       <sub><b>Placeholder</b></sub>
