@@ -219,17 +219,19 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VRVF.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/IPP.gif" width="250" alt="CNN and Lucas Kanade Tracking Pipeline"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      ${\large\color{red}{\textbf{CNN and Lucas}}}$<br/>
+      ${\large\color{red}{\textbf{Kanade Tracking Pipeline}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VRVF.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/KMEA.gif" width="250" alt="Automated Color Segmentation with K-Means"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      ${\large\color{red}{\textbf{Automated Color}}}$<br/>
+      ${\large\color{red}{\textbf{Segmentation with K-Means}}}$
     </td>
   </tr>
 </table>
