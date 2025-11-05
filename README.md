@@ -62,14 +62,16 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="250" alt="Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation"/>
       </a>
       <br/>
-      <sub>$${\color{red}{\textbf{Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation}}}$$</sub>
+      ${\Large\color{red}{\textbf{Lightweight Electrostatic Haptic}}}$<br/>
+      ${\Large\color{red}{\textbf{Gloves for VR Surgical Simulation}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/RAS.gif" width="250" alt="Real-Time VR Teleoperation for Physical Robotic Arms"/>
       </a>
       <br/>
-      <sub>$${\color{red}{\textbf{Real-Time VR Teleoperation for Physical Robotic Arms}}}$$</sub>
+      ${\Large\color{red}{\textbf{Real-Time VR Teleoperation}}}$<br/>
+      ${\Large\color{red}{\textbf{for Physical Robotic Arms}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
