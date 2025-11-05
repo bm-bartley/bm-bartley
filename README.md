@@ -136,8 +136,8 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/HPC.gif" width="250" alt="Parallel Energy Analysis on High Performance Computing Cluster"/>
       </a>
       <br/>
-      ${\large\color{red}{\textbf{Parallel Energy Analysis on}}}$<br/> 
-      ${\large\color{red}{\textbf{High Performance Computing Cluster}}}$
+      ${\large\color{red}{\textbf{Parallel Energy Analysis High}}}$<br/> 
+      ${\large\color{red}{\textbf{Performance Computing Cluster}}}$
     </td>
   </tr>
 </table>
@@ -186,8 +186,8 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/REX.gif" width="250" alt="Scalable Low-Cost Microcontroller-Based Multimodal Game"/>
       </a>
       <br/>
-      ${\large\color{red}{\textbf{Scalable Low-Cost}}}$<br/> 
-      ${\large\color{red}{\textbf{Microcontroller-Based Multimodal Game}}}$
+      ${\large\color{red}{\textbf{Scalable Microcontroller}}}$<br/> 
+      ${\large\color{red}{\textbf{Based Multimodal Game}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
