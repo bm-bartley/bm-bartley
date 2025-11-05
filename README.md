@@ -76,7 +76,8 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/JD.gif" width="250" alt="MR 3D Reconstruction Application Using Gaussian Splatting"/>
       </a>
       <br/>
-      <sub>$${\Large\color{red}{\textbf{MR 3D Reconstruction Application Using Gaussian Splatting}}}$$</sub>
+      ${\Large\color{red}{\textbf{MR 3D Reconstruction}}}$<br/>
+      ${\Large\color{red}{\textbf{Using Gaussian Splatting}}}$
     </td>
   </tr>
 </table>
