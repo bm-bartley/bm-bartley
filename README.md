@@ -59,50 +59,24 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="250" alt="Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/RAS.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/RAS.gif" width="250" alt="Real-Time VR Teleoperation for Physical Robotic Arms"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>Real-Time VR Teleoperation for Physical Robotic Arms	</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/JD.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/JD.gif" width="250" alt="MR 3D Reconstruction Application Using Gaussian Splatting"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SHAP.gif" width="250" alt="VR Visual Field Testing"/>
-      </a>
-      <br/>
-      <sub><b>Placeholder</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/TRAINS.gif" width="250" alt="VR Visual Field Testing"/>
-      </a>
-      <br/>
-      <sub><b>Placeholder</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ORG2.gif" width="250" alt="VR Visual Field Testing"/>
-      </a>
-      <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>MR 3D Reconstruction Application Using Gaussian Splatting</b></sub>
     </td>
   </tr>
 </table>
@@ -111,50 +85,24 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ARP.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SHAP.gif" width="250" alt="Custom Servo-Based Haptic Feedback Gloves for VR"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>Custom Servo-Based Haptic Feedback Gloves for VR</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/WATCH.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/TRAINS.gif" width="250" alt="Modular Train Control System Simulator"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>Modular Train Control System Simulator</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/HPC.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ORG2.gif" width="250" alt="Logisim Five Stage Pipelined CPU"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ADD.gif" width="250" alt="VR Visual Field Testing"/>
-      </a>
-      <br/>
-      <sub><b>Placeholder</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/COIL.gif" width="250" alt="VR Visual Field Testing"/>
-      </a>
-      <br/>
-      <sub><b>Placeholder</b></sub>
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/NVID.gif" width="250" alt="VR Visual Field Testing"/>
-      </a>
-      <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>Logisim Five Stage Pipelined CPU</b></sub>
     </td>
   </tr>
 </table>
@@ -163,24 +111,76 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ELEV.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ARP.gif" width="250" alt="AR Composited Video Using Planar Homographies"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>AR Composited Video Using Planar Homographies</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/REX.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/WATCH.gif" width="250" alt="Custom API Integration for Embedded Watch Display"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>Custom API Integration for Embedded Watch Display</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VIST.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/HPC.gif" width="250" alt="Parallel Energy Analysis on High Performance Computing Cluster"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>Parallel Energy Analysis on High Performance Computing Cluster</b></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ADD.gif" width="250" alt="VHDL 32-Bit MIPS CPU"/>
+      </a>
+      <br/>
+      <sub><b>VHDL 32-Bit MIPS CPU</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/COIL.gif" width="250" alt="LLM Content Generation for Search Engine Optimization"/>
+      </a>
+      <br/>
+      <sub><b>LLM Content Generation for Search Engine Optimization</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/NVID.gif" width="250" alt="NVIDIA Deep Learning LLM Training"/>
+      </a>
+      <br/>
+      <sub><b>NVIDIA Deep Learning LLM Training</b></sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ELEV.gif" width="250" alt="Embedded Assembly Elevator Control System on STM32"/>
+      </a>
+      <br/>
+      <sub><b>Embedded Assembly Elevator Control System on STM32</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/REX.gif" width="250" alt="Scalable Low-Cost Microcontroller-Based Multimodal Game"/>
+      </a>
+      <br/>
+      <sub><b>Scalable Low-Cost Microcontroller-Based Multimodal Game</b></sub>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VIST.gif" width="250" alt="Task-Based VR Environments for Assessing User Vision in Daily Living Scenarios"/>
+      </a>
+      <br/>
+      <sub><b>Task-Based VR Environments for Assessing User Vision in Daily Living Scenarios</b></sub>
     </td>
   </tr>
 </table>
@@ -192,7 +192,7 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VRVF.gif" width="250" alt="VR Visual Field Testing"/>
       </a>
       <br/>
-      <sub><b>Placeholder</b></sub>
+      <sub><b>VR Visual Field Testing</b></sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
