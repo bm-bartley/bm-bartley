@@ -62,21 +62,21 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SD.gif" width="250" alt="Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation"/>
       </a>
       <br/>
-      <sub><b>Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation</b></sub>
+      <sub>$${\color{red}{\textbf{Lightweight Electrostatic Haptic Gloves for VR Surgical Simulation}}}$$</sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/RAS.gif" width="250" alt="Real-Time VR Teleoperation for Physical Robotic Arms"/>
       </a>
       <br/>
-      <sub><b>Real-Time VR Teleoperation for Physical Robotic Arms	</b></sub>
+      <sub>$${\color{red}{\textbf{Real-Time VR Teleoperation for Physical Robotic Arms}}}$$</sub>
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/JD.gif" width="250" alt="MR 3D Reconstruction Application Using Gaussian Splatting"/>
       </a>
       <br/>
-      <sub><b>MR 3D Reconstruction Application Using Gaussian Splatting</b></sub>
+      <sub>$${\color{red}{\textbf{MR 3D Reconstruction Application Using Gaussian Splatting}}}$$</sub>
     </td>
   </tr>
 </table>
