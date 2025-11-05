@@ -237,4 +237,7 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
 ---
 
 ### 🧠 My Engineering Journey
- 
+
+My journey started with small embedded projects and gradually evolved into building VR systems, custom hardware, and real-time analytics.
+
+Through all of it (including my work done at the University of Pittsburgh), I’ve learned that my greatest strength isn’t just technical skill - it's my ability to come up with creative solutions and find ways around problems when things don’t go as planned. Whether that means rethinking a design, finding a workaround in code, or piecing together a new approach from scratch, I’ve always enjoyed figuring out how to make things work no matter the circumstances (especially ridiculous ones).
