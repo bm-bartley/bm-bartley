@@ -74,41 +74,25 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/RAS.gif" width="250" alt="Real-Time VR Teleoperation for Physical Robotic Arms"/>
-      </a>
-      <br/>
-      ${\large\color{red}{\textbf{Real-Time VR Teleoperation}}}$<br/>
-      ${\large\color{red}{\textbf{for Physical Robotic Arms}}}$
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/JD.gif" width="250" alt="MR 3D Reconstruction Application Using Gaussian Splatting"/>
       </a>
       <br/>
       ${\large\color{red}{\textbf{MR 3D Reconstruction}}}$<br/>
       ${\large\color{red}{\textbf{Using Gaussian Splatting}}}$
     </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ADD.gif" width="250" alt="VHDL 32-Bit MIPS CPU"/>
+      </a>
+      <br/>
+      ${\large\color{red}{\textbf{VHDL 32-Bit}}}$<br/> 
+      ${\large\color{red}{\textbf{MIPS CPU}}}$
+    </td>
   </tr>
 </table>
 
 <table align="center" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SHAP.gif" width="250" alt="Custom Servo-Based Haptic Feedback Gloves for VR"/>
-      </a>
-      <br/>
-      ${\large\color{red}{\textbf{Custom Servo-Based Haptic}}}$<br/>
-      ${\large\color{red}{\textbf{Feedback Gloves for VR}}}$
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/TRAINS.gif" width="250" alt="Modular Train Control System Simulator"/>
-      </a>
-      <br/>
-      ${\large\color{red}{\textbf{Modular Train}}}$<br/>
-      ${\large\color{red}{\textbf{Control System Simulator}}}$
-    </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ORG2.gif" width="250" alt="Logisim Five Stage Pipelined CPU"/>
@@ -116,27 +100,6 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
       <br/>
       ${\large\color{red}{\textbf{Logisim Five}}}$<br/>
       ${\large\color{red}{\textbf{Stage Pipelined CPU}}}$
-    </td>
-  </tr>
-</table>
-
-<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ARP.gif" width="250" alt="AR Composited Video Using Planar Homographies"/>
-      </a>
-      <br/>
-      ${\large\color{red}{\textbf{AR Composited Video}}}$<br/>
-      ${\large\color{red}{\textbf{Using Planar Homographies}}}$
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/WATCH.gif" width="250" alt="Custom API Integration for Embedded Watch Display"/>
-      </a>
-      <br/>
-      ${\large\color{red}{\textbf{Custom API Integration}}}$<br/> 
-      ${\large\color{red}{\textbf{for Embedded Watch Display}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
@@ -146,6 +109,14 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
       ${\large\color{red}{\textbf{Parallel Energy Analysis High}}}$<br/> 
       ${\large\color{red}{\textbf{Performance Computing Cluster}}}$
     </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/TRAINS.gif" width="250" alt="Modular Train Control System Simulator"/>
+      </a>
+      <br/>
+      ${\large\color{red}{\textbf{Modular Train}}}$<br/>
+      ${\large\color{red}{\textbf{Control System Simulator}}}$
+    </td>
   </tr>
 </table>
 
@@ -153,19 +124,48 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ADD.gif" width="250" alt="VHDL 32-Bit MIPS CPU"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VIST.gif" width="250" alt="Task-Based VR Environments for Assessing User Vision in Daily Living Scenarios"/>
       </a>
       <br/>
-      ${\large\color{red}{\textbf{VHDL 32-Bit}}}$<br/> 
-      ${\large\color{red}{\textbf{MIPS CPU}}}$
+      ${\large\color{red}{\textbf{Task-Based VR Environments for}}}$<br/> 
+      ${\large\color{red}{\textbf{Assessing Vision in Daily Living}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/COIL.gif" width="250" alt="LLM Content Generation for Search Engine Optimization"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VRVF.gif" width="250" alt="VR Visual Field Testing"/>
       </a>
       <br/>
-      ${\large\color{red}{\textbf{LLM Content Generation}}}$<br/>  
-      ${\large\color{red}{\textbf{for Search Engine Optimization}}}$
+      ${\large\color{red}{\textbf{VR Visual}}}$<br/> 
+      ${\large\color{red}{\textbf{Field Testing}}}$
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ELEV.gif" width="250" alt="Embedded Assembly Elevator Control System on STM32"/>
+      </a>
+      <br/>
+      ${\large\color{red}{\textbf{Embedded Assembly Elevator}}}$<br/> 
+      ${\large\color{red}{\textbf{Control System on STM32}}}$
+    </td>
+  </tr>
+</table>
+
+<table align="center" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/RAS.gif" width="250" alt="Real-Time VR Teleoperation for Physical Robotic Arms"/>
+      </a>
+      <br/>
+      ${\large\color{red}{\textbf{Real-Time VR Teleoperation}}}$<br/>
+      ${\large\color{red}{\textbf{for Physical Robotic Arms}}}$
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/SHAP.gif" width="250" alt="Custom Servo-Based Haptic Feedback Gloves for VR"/>
+      </a>
+      <br/>
+      ${\large\color{red}{\textbf{Custom Servo-Based Haptic}}}$<br/>
+      ${\large\color{red}{\textbf{Feedback Gloves for VR}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
@@ -182,14 +182,6 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ELEV.gif" width="250" alt="Embedded Assembly Elevator Control System on STM32"/>
-      </a>
-      <br/>
-      ${\large\color{red}{\textbf{Embedded Assembly Elevator}}}$<br/> 
-      ${\large\color{red}{\textbf{Control System on STM32}}}$
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://github.com/bm-bartley/VR-VF">
         <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/REX.gif" width="250" alt="Scalable Low-Cost Microcontroller-Based Multimodal Game"/>
       </a>
       <br/>
@@ -198,11 +190,19 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VIST.gif" width="250" alt="Task-Based VR Environments for Assessing User Vision in Daily Living Scenarios"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/ARP.gif" width="250" alt="AR Composited Video Using Planar Homographies"/>
       </a>
       <br/>
-      ${\large\color{red}{\textbf{Task-Based VR Environments for}}}$<br/> 
-      ${\large\color{red}{\textbf{Assessing Vision in Daily Living}}}$
+      ${\large\color{red}{\textbf{AR Composited Video}}}$<br/>
+      ${\large\color{red}{\textbf{Using Planar Homographies}}}$
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/bm-bartley/VR-VF">
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/COIL.gif" width="250" alt="LLM Content Generation for Search Engine Optimization"/>
+      </a>
+      <br/>
+      ${\large\color{red}{\textbf{LLM Content Generation}}}$<br/>  
+      ${\large\color{red}{\textbf{for Search Engine Optimization}}}$
     </td>
   </tr>
 </table>
@@ -211,11 +211,11 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
-        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/VRVF.gif" width="250" alt="VR Visual Field Testing"/>
+        <img src="https://raw.githubusercontent.com/bm-bartley/bm-bartley/main/assets/WATCH.gif" width="250" alt="Custom API Integration for Embedded Watch Display"/>
       </a>
       <br/>
-      ${\large\color{red}{\textbf{VR Visual}}}$<br/> 
-      ${\large\color{red}{\textbf{Field Testing}}}$
+      ${\large\color{red}{\textbf{Custom API Integration}}}$<br/> 
+      ${\large\color{red}{\textbf{for Embedded Watch Display}}}$
     </td>
     <td align="center" style="border:none;">
       <a href="https://github.com/bm-bartley/VR-VF">
