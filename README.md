@@ -6,8 +6,6 @@ $${\large\color{red}I\ am\ a\ Computer\ Engineer}$$ from the University of Pitts
 
 I love working on projects that blend both $${\large\color{red}hardware\ design}$$ and $${\large\color{red}software\ engineering}$$, as well any challenges that involve complex, low-level computer systems and architectures.
 
-Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}$$, and what keeps me hooked is the potential I see in its social side. I think social VR has the power to reshape how people connect and interact with others. It’s not just about escapism or playing with avatars - it’s about expanding the boundaries of who we are by exposing ourselves to perspectives we’d never otherwise encounter.
-
 <p align="left">
   <a href="https://www.engineering.pitt.edu/">
     <img alt="Education" title="University of Pittsburgh - Swanson School of Engineering" src="https://custom-icon-badges.demolab.com/badge/-University%20of%20Pittsburgh-600000?style=for-the-badge&logo=graduation-cap&logoColor=white"/></a>
@@ -237,9 +235,3 @@ Lately I’ve been working mostly on $${\large\color{red}VR\ research\ projects}
 </table>
 
 ---
-
-### 🧠 My Engineering Journey
-
-My journey started with small embedded projects and gradually evolved into building VR systems, custom hardware, and real-time analytics.
-
-Through all of it (including my work done at the University of Pittsburgh), I’ve learned that my greatest strength isn’t just technical skill - it's my ability to come up with creative solutions and find ways around problems when things don’t go as planned. Whether that means rethinking a design, finding a workaround in code, or piecing together a new approach from scratch, I’ve always enjoyed figuring out how to make things work no matter the circumstances (especially ridiculous ones).
