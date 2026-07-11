@@ -1,6 +1,6 @@
 # 👨‍💻 Brian Bartley
 
-<img alt="Tagline" src="https://custom-icon-badges.demolab.com/badge/Computer%20Engineer%20%7C%20VR%20Systems%20Researcher%20%7C%20Embedded%20Developer-8B0000?style=for-the-badge&logo=code&logoColor=white"/>
+<img alt="Tagline" src="https://custom-icon-badges.demolab.com/badge/Computer%20Engineer%20%7C%20Computer%20Architecture%20Researcher%20%7C%20Embedded%20Developer-8B0000?style=for-the-badge&logo=code&logoColor=white"/>
 
 $${\large\color{red}I\ am\ a\ Computer\ Engineer}$$ from the University of Pittsburgh, and I'm interested in building high-performance, immersive systems that bridge $${\large\color{red}computer\ hardware}$$ and $${\large\color{red}virtual\ reality}$$! My work spans custom haptic devices, various VR/AR pipelines, embedded systems, and parallel computing frameworks for large-scale data processing.
 
