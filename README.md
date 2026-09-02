@@ -2,7 +2,7 @@
 
 <img alt="Tagline" src="https://custom-icon-badges.demolab.com/badge/Computer%20Engineer%20%7C%20Computer%20Architecture%20Researcher%20%7C%20Software%20Developer-8B0000?style=for-the-badge&logo=code&logoColor=white"/>
 
-$${\large\color{red}I\ am\ a\ Computer\ Engineer}$$ from the University of Pittsburgh and an incoming M.S. student in Electrical and Computer Engineering at Carnegie Mellon University. I'm passionate about building high-performance computing systems at the intersection of $${\large\color{red}computer\ architecture}$$, $${\large\color{red}GPU\ systems}$$, and $${\large\color{red}parallel\ computing}$$. My work spans computer architecture research, GPU programming, high-performance software, embedded systems, and VR/AR technologies.
+$${\large\color{red}I\ am\ a\ Computer\ Engineer}$$ from Carnegie Mellon University. I'm passionate about building high-performance computing systems at the intersection of $${\large\color{red}computer\ architecture}$$, $${\large\color{red}large\ systems}$$, and $${\large\color{red}parallel\ computing}$$. My work spans computer architecture research, programming, and high-performance software.
 
 I enjoy tackling problems that combine $${\large\color{red}low\text{-}level\ hardware}$$ with $${\large\color{red}high\text{-}performance\ software}$$—from optimizing systems for modern CPU/GPU architectures to designing scalable computing frameworks. I'm especially interested in the design of efficient computer systems, performance optimization, and the hardware-software co-design techniques that enable next-generation computing.
 
