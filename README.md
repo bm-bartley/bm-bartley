@@ -2,7 +2,7 @@
 
 <img alt="Tagline" src="https://custom-icon-badges.demolab.com/badge/Computer%20Engineer%20%7C%20Computer%20Architecture%20Researcher%20%7C%20Software%20Developer-8B0000?style=for-the-badge&logo=code&logoColor=white"/>
 
-$${\large\color{red}I\ am\ a\ Computer\ Engineer}$$ at Carnegie Mellon University. Currently I'm focusing on $${\large\color{red}computer\ architecture}$$, $${\large\color{red}high-performance\ computing}$$, and $${\large\color{red}emerging\ accelerator\ arcitectures.}$$
+$${\large\color{red}I\ am\ a\ Computer\ Engineer}$$ at Carnegie Mellon University. Currently I'm focusing on $${\large\color{red}computer\ architecture}$$, $${\large\color{red}high-performance\ computing}$$, and $${\large\color{red}emerging\ accelerator\ arcitectures.}$$.
 
 I enjoy tackling problems that combine $${\large\color{red}low\text{-}level\ hardware}$$ with $${\large\color{red}high\text{-}performance\ software}$$—from optimizing systems for modern CPU/GPU architectures to designing scalable computing frameworks. I'm especially interested in the design of efficient computer systems, performance optimization, and the hardware-software co-design techniques that enable next-generation computing.
 
